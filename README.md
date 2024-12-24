@@ -59,7 +59,6 @@ class GitHubProfile {
   }
 }
 
-// Create and use the profile
 const profile = new GitHubProfile();
 profile.introduce();
 ```
