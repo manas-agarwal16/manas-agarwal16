@@ -65,11 +65,11 @@ profile.introduce();
 ```
 ## 🚀 Profiles
 
-- 💻 **LeetCode**: [Manas Agarwal]([https://leetcode.com/your-leetcode-username](https://leetcode.com/u/manas_agarwal16/))
-- 🤖 **Codeforces**: [Manas Agarwal]([https://codeforces.com/profile/your-codeforces-username](https://codeforces.com/profile/manas_agarwal16))
-- 🏅 **CodeChef**: [Manas Agarwal]([https://www.codechef.com/users/your-codechef-username](https://www.codechef.com/users/manasagarwal19))
-- 🌐 **LinkedIn**: [Manas Agarwal]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/manas-agarwal16/))
+- 💻 **LeetCode**: [manas_agarwal16](https://leetcode.com/u/manas_agarwal16/)
+- 🤖 **Codeforces**: [manas_agarwal16](https://codeforces.com/profile/manas_agarwal16)
+- 🏅 **CodeChef**: [manasagarwal19](https://www.codechef.com/users/manasagarwal19)
+- 🌐 **LinkedIn**: [manas-agarwal16](https://www.linkedin.com/in/manas-agarwal16/)
 
 ## 🚀 Github stats
-![Manas' GitHub stats](![manas-agarwal16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=manas-agarwal16&theme=vue-dark&hide_border=true))
+![Manas' GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manas-agarwal16&theme=vue-dark&hide_border=true)
 
