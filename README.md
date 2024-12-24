@@ -1,3 +1,17 @@
+# Hi there 👋, I'm Manas Agarwal!
+## 🌟 About Me
+
+- 🔭 I’m currently working on **🚀Fullstack Projects**
+- 🌱 I’m learning **Advanced DSA and new technologies**
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/manas-agarwal16)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manas-agarwal16/)
+- 📫 How to reach me: **[Email me](mailto:manas.agarwal1604@gmail.com)**
+
+---
+
+Welcome to my profile! Here's a quick snippet about me in JavaScript:
+
+```javascript
 class GitHubProfile {
   constructor() {
     this.username = "manas-agarwal16";
@@ -36,15 +50,4 @@ class GitHubProfile {
     });
     console.log("\n💻 Skills I'm proud of:");
     this.skills.forEach((skill) => {
-      console.log(`   - ${skill}`);
-    });
-    console.log("\n🚀 Things I love to explore:");
-    this.interests.forEach((interest) => {
-      console.log(`   - ${interest}`);
-    });
-  }
-}
-
-
-const profile = new GitHubProfile();
-profile.introduce();
+      console.log(`   - ${skill
