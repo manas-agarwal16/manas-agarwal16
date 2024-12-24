@@ -72,3 +72,6 @@ profile.introduce();
 ## 🚀 Github stats
 ![Manas' GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manas-agarwal16&theme=vue-dark&hide_border=true)
 
+
+![](https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
+
