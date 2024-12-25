@@ -2,7 +2,7 @@
 ## 🌟 About Me
 
 - 🔭 I’m currently working on **🚀Fullstack Projects**
-- 🌱 I have strong grasp on **Data Structures and Algorithm** and always learning **new technologies**.
+- 🌱 I have strong grasp on **Data Structures and Algorithm** and I'm always excited to learn **new technologies**.
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/manas-agarwal16)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manas-agarwal16/)
 - 📫 How to reach me: **[Email me](mailto:manas.agarwal1604@gmail.com)**
