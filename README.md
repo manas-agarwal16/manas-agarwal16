@@ -69,6 +69,16 @@ profile.introduce();
 - 🏅 **CodeChef**: [manasagarwal19](https://www.codechef.com/users/manasagarwal19)
 - 🌐 **LinkedIn**: [manas-agarwal16](https://www.linkedin.com/in/manas-agarwal16/)
 
+## Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+
 ## 🚀 Github stats
 ![Manas' GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=manas-agarwal16&theme=vue-dark&hide_border=true)
 
