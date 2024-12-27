@@ -69,7 +69,7 @@ profile.introduce();
 - 🏅 **CodeChef**: [manasagarwal19](https://www.codechef.com/users/manasagarwal19)
 - 🌐 **LinkedIn**: [manas-agarwal16](https://www.linkedin.com/in/manas-agarwal16/)
 
-## Languages
+## 👩‍💻💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
